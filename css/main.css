@@ -20,6 +20,10 @@ html {
 body {
   font-family: "Lato", sans-serif; }
 
+::selection {
+  background-color: #d0021b;
+  color: white; }
+
 .heading-1 {
   color: #fff;
   font-size: 6.2rem;
